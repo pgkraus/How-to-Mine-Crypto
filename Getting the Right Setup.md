@@ -17,8 +17,8 @@ If you want to make a dedicated GPU-based mining rig, you're going to need to bu
 +Any old, used LGA 1151 CPU from Ebay.  Celerons and Core 2 Duos can typically be had for $40 or less
 +Any DDR4 memory.  New 4GB sticks can be purchased for as low as $25 from Crucial or G.Skill.  I recommend G.Skill as they have the least hardware compatability issues.
 +Any hard drive.  You can get a new [Western Digital Scorpio Blue 160GB](https://www.amazon.com/dp/B0037NYQ9I?tag=pcpapi-20&linkCode=ogi&th=1&psc=1) for $19.74
-The CPU, RAM, case, and storage really don't matter much at all in a dedicated rig.  The graphics card will be doing all the work, and you can build a simple case out of wood aluminum extrusion.
-The total cost for this setup will be around
+The CPU, RAM, case, and storage really don't matter much at all in a dedicated rig.  The graphics card will be doing all the work, and you can build a simple case out of wood aluminum extrusion.  
+The total cost for this setup will be around $193.72 without the graphics card.
 ### ASIC Miners
 #### What are they?
 The other method of mining, typically used by large-scale mining operations such as those that fill entire warehouses in China, involves using a special type of computer called an ASIC miner.  This is not a general computer, meaning it can't run a normal operating system or binary files (executable programs), so these should **not** be considered if you plan to use your rig for gaming as well.  ASIC stands for Application Specific Integrated Circuit, and is a purpose-built device solely meant to be used for mining.  They're so purpose-built, each miner can only mine *one* type of cryptocurrency.  So, for example, if you want to be able to switch between mining ethereum and bitcoin as the market fluctuates, this would be another reason you should *not* consider using an ASIC miner.
