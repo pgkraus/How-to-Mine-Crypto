@@ -11,4 +11,4 @@ This guide is broken down into three main sections, start with the first section
 [2]: https://github.com/pgkraus/How-to-Mine-Crypto/blob/main/Getting%20the%20Right%20Setup.md
 [3]: https://github.com/pgkraus/How-to-Mine-Crypto/blob/main/Method%20and%20Software.md
 [4]: https://github.com/pgkraus/How-to-Mine-Crypto/tree/main
-![Bitcoin](https://economictimes.indiatimes.com/thumb/msid-79280279,width-1200,height-900,resizemode-4,imgsize-678018/bitcoin.jpg?from=mdr)       ![Mining Rig](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ebay.com%2Fitm%2F133177360043&psig=AOvVaw3Qpyh2IKYDjvYAKMymkrTo&ust=1620266040422000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOj36r-3sfACFQAAAAAdAAAAABAH)
+![Bitcoin](https://economictimes.indiatimes.com/thumb/msid-79280279,width-1200,height-900,resizemode-4,imgsize-678018/bitcoin.jpg?from=mdr)    ![Mining Rig](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ebay.com%2Fitm%2F133177360043&psig=AOvVaw3Qpyh2IKYDjvYAKMymkrTo&ust=1620266040422000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOj36r-3sfACFQAAAAAdAAAAABAH)
