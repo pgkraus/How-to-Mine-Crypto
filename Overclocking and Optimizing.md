@@ -8,7 +8,8 @@ First, you need to determine if your GPU is overclockable at all.  Nearly all mo
 + [Asus GPU Tweak III](https://www.asus.com/campaign/GPU-Tweak-III/) for Asus cards.
 + [Aorus Engine](https://www.gigabyte.com/Support/Utility/Graphics-Card) for Gigabyte Aorus cards.  Not recommended, Gigabyte simply makes bad software.  Use at your own discretion only if you have an Aorus card and nothing else will work.
 + [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) for MSI cards.
-+ [ASRock OC Tuner](https://www.asrock.com/feature/OCTuner/) for ASRock cards.  Also not recommended since it is simply a bad piece of software.
++ [ASRock OC Tuner](https://www.asrock.com/feature/OCTuner/) for ASRock cards.  Also not recommended since it is simply a bad piece of software.  
+
 ![X1](https://i.imgur.com/wjzUB0x.png)
 >_A screenshot of my current EVGA X1 settings_
 
