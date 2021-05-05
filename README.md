@@ -11,3 +11,4 @@ This guide is broken down into three main sections, start with the first section
 [2]: https://github.com/pgkraus/How-to-Mine-Crypto/blob/main/Getting%20the%20Right%20Setup.md
 [3]: https://github.com/pgkraus/How-to-Mine-Crypto/blob/main/Method%20and%20Software.md
 [4]: https://github.com/pgkraus/How-to-Mine-Crypto/tree/main
+![Bitcoin](https://economictimes.indiatimes.com/thumb/msid-79280279,width-1200,height-900,resizemode-4,imgsize-678018/bitcoin.jpg?from=mdr)
