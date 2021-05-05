@@ -9,7 +9,7 @@ First, you need to determine if your GPU is overclockable at all.  Nearly all mo
 + [Aorus Engine](https://www.gigabyte.com/Support/Utility/Graphics-Card) for Gigabyte Aorus cards.  Not recommended, Gigabyte simply makes bad software.  Use at your own discretion only if you have an Aorus card and nothing else will work.
 + [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) for MSI cards.
 + [ASRock OC Tuner](https://www.asrock.com/feature/OCTuner/) for ASRock cards.  Also not recommended since it is simply a bad piece of software.
-![X1](https://imgur.com/a/o8BUG7u)
+![X1](https://i.imgur.com/wjzUB0x.png)
 >_A screenshot of my current EVGA X1 settings_
 
 Once you have selected and installed your desired overclocking software, you need to get a benchmarking tool.  This will help you test for errors or outright failures to determine how far you can effectively push your card.  I recommend [Heaven](https://benchmark.unigine.com/heaven) by unigine.  It's free and extremely graphics intensive, making it perfect for this use case.
