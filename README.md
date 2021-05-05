@@ -13,5 +13,6 @@ This guide is broken down into three main sections, start with the first section
 [4]: https://github.com/pgkraus/How-to-Mine-Crypto/tree/main
 ![Bitcoin](https://economictimes.indiatimes.com/thumb/msid-79280279,width-1200,height-900,resizemode-4,imgsize-678018/bitcoin.jpg?from=mdr)
 >**Bitcoin**
+>
 ![Mining Rig](https://i.ebayimg.com/images/g/y60AAOSwa1ZcMMg9/s-l400.jpg)
 >**Typical Mining Rig**
