@@ -8,8 +8,8 @@ There are other methods of mining besides using graphics cards and attempting to
 
 ![Blockchain](https://www.researchgate.net/publication/335357706/figure/fig1/AS:795083523756032@1566574092246/Functional-diagram-of-a-Blockchain-network.ppm)
 >_A diagram of how the blockchain mining process works_
-&nbsp;
-&nbsp;
-&nbsp;
+
+&nbsp;  
+&nbsp;  
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Home](https://github.com/pgkraus/How-to-Mine-Crypto/blob/main/README.md) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Getting the Right Setup>](https://github.com/pgkraus/How-to-Mine-Crypto/blob/main/Getting%20the%20Right%20Setup.md)
