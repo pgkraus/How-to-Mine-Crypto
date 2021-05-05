@@ -10,7 +10,7 @@ This guide is broken down into four main sections, start with the first section 
 [1]: https://github.com/pgkraus/How-to-Mine-Crypto/blob/main/What%20is%20Crypto.md
 [2]: https://github.com/pgkraus/How-to-Mine-Crypto/blob/main/Getting%20the%20Right%20Setup.md
 [3]: https://github.com/pgkraus/How-to-Mine-Crypto/blob/main/Method%20and%20Software.md
-[4]: https://github.com/pgkraus/How-to-Mine-Crypto/blob/main/Overclocking%20and%20Optimizing
+[4]: https://github.com/pgkraus/How-to-Mine-Crypto/blob/main/Overclocking%20and%20Optimizing.md
 ![Bitcoin](https://economictimes.indiatimes.com/thumb/msid-79280279,width-1200,height-900,resizemode-4,imgsize-678018/bitcoin.jpg?from=mdr)  
 >**Bitcoin**
 
