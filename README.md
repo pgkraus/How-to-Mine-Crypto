@@ -15,7 +15,7 @@ Throughout this guide, I will be using quite a bit of lingo that the layman may 
 + **Rig**: The term rig simply refers to any computer setup.  This may refer to a gaming PC (gaming rig) or a dedicated machine used for mining (mining rig)
 + **Hashing/Hash Rate**:  Hashing is the work done by your rig when mining.  It is measured in hashes/second, usually on the scale of Megahashes/second (MH/s).  This determines how much you can earn.
 + **Crypto**:  This is simply shorthand for cryptocurrency.  Can refer to any cryptocurrency.
-+ **BTC**:  This is the abbreviated symbol for a bitcoin.  Think of it like USD for United States Dollar
++ **BTC**:  This is the abbreviated symbol for a bitcoin.  Think of it like USD for United States Dollar.
 + **Overclocking**:  To put it simply, all computational devices have a core clock speed which, generally speaking, determines how much work it can do or how much information it can process in a given time span, and it is usually measured in megahertz (MHz) or gigahertz (GHz).  One hertz means a single cycle per second.  Overclocking is forcing a device to run at a higher clock speed than it is intended, boosting performance but increasing power draw and heat production.
 
 [1]: https://github.com/pgkraus/How-to-Mine-Crypto/blob/main/What%20is%20Crypto.md
