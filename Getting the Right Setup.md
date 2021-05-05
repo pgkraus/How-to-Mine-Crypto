@@ -1,6 +1,6 @@
 # Getting The Right Setup  
 ## Hardware Considerations  
-The first thing you need to consider is if you want to create a dedicated mining rig/farm, or if you want to build a gaming computer that you can also mine with.  If you want to create a gaming PC, you're definitely going to need a solid graphics card.  If you're going the dedicated mining route, you need to decide if you want to use a graphics cards to mine, or if you want to use ASIC miners.  
+The first thing you need to consider is if you want to create a dedicated mining rig/farm, or if you want to build a gaming computer that you can also mine with.  If you want to create a gaming PC, you're definitely going to need a solid graphics card.  If you're going the dedicated mining route, you need to decide if you want to use graphics cards to mine, or if you want to use ASIC miners.  
 ### Graphics Cards  
   If you've decided you want to use graphics card mining, feel free to skip the following section on ASIC miners.  If you're still not sure, keep reading then make your decision.  
 #### The Basics
