@@ -34,6 +34,6 @@ Now tha you're overclocked, your GPU temperature will likely be significantly in
 + Install more and/or better case fans.  I highly recommend any fans made by [Noctua](https://noctua.at/).  They offer the nest performance hands-down, although they aren't very pretty.  Also, you should consider that for optimal cooling performance, you should have positive pressure in your PC case.  This means that you need more intake fans than exhaust fans.  I use 5 in and 2 out and it seems to work quite well.
 + As mentioned before, you can replace the thermal paste on your GPU with a higher end thermal compound such as Thermal Grizzly's [Conductonaut](https://www.amazon.com/Thermal-Grizzly-Conductonaut-Grease-Paste/dp/B01A9KIGSI) liquid metal thermal compound.  Keep in mind, however, this requires some degree of technical skill and will **void your warranty**.  
 
-You've reached the end of the tutorial.  Congratulations and hapy mining!
+You've reached the end of the tutorial.  Congratulations and happy mining!
 
 [<Method of Mining](https://github.com/pgkraus/How-to-Mine-Crypto/blob/main/Method%20and%20Software.md) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Home](https://github.com/pgkraus/How-to-Mine-Crypto/blob/main/README.md)
