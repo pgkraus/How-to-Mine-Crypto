@@ -7,4 +7,4 @@ This guide is broken down into three main sections, start with the first section
 + [Method of Mining and Software Selection][3]  
 + [Overclocking and Optimizing][4]  
 
-[1]: https://github.com/pgkraus/How-to-Mine-Crypto/blob/main/Getting%20the%20Right%20Setup.md
+[2]: https://github.com/pgkraus/How-to-Mine-Crypto/blob/main/Getting%20the%20Right%20Setup.md
